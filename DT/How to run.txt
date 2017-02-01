@@ -1,0 +1,3 @@
+Command line :-
+python DecisionTree.py <train dataset .txt> <test dataset .txt> <depth (integer)>
+
